@@ -8,6 +8,8 @@ Topics covered so far:
 - Data types (int, float, string)
 - Conditional statements (if / elif / else)
 - While loops
+- for loops
+- list
 
 Goal:
 Build strong foundations for AI and Machine Learning.
